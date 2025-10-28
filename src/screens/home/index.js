@@ -7,6 +7,7 @@ import Player from '../player';
 import Favorites from '../favorites';
 import './home.css';
 import Sidebar from '../../components/sidebar/idnex';
+import Login from '../auth/login';
 
 export default function Home() {
   return (
